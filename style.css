@@ -84,10 +84,10 @@ h1{
     margin: 0 5px;
 }
 .socials a:nth-child(1){
-    background: #bd081c;
+    background: #0077b5;
 }
 .socials a:nth-child(2){
-    background: #0077b5;
+    background: rgb(163, 30, 30);
 }
 .socials a i{
     padding: 8px 0;
